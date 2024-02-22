@@ -11,4 +11,5 @@ We plan to use data from the WRDS TAQ millisecond trades database for this proje
 The goal for this research is to better understand systematic risk and thus make some contributions to asset pricing and portfolio management sectors. 
 ## Potential Challenges and Solutions
 We may encounter challenges in the data collection and cleaning processes, as cleaning high-frequency data is computationally intensive. To solve this problem, we could split the task and search for open-source codes for some insights.
-
+## Reference
+PELGER, M. (2020), Understanding Systematic Risk: A High-Frequency Approach. The Journal of Finance, 75: 2179-2220. https://doi.org/10.1111/jofi.12898
