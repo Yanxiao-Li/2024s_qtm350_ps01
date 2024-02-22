@@ -1,4 +1,4 @@
-# QTM 350 Project
+# QTM 350 Project - Systematic Risk Study using PCA
 ### Christina Li, Krystal Song
 This project aims to study factors determing the systematic risk using PCA. We plan to use high-frequency stock dataset.
 #### Systematic risk
